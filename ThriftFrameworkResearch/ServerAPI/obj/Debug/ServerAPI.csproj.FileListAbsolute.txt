@@ -1,0 +1,9 @@
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerAPI\bin\Debug\ServerAPI.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerAPI\bin\Debug\ServerAPI.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerAPI\bin\Debug\Thrift.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerAPI\bin\Debug\Thrift.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerAPI\obj\Debug\ServerAPI.csproj.CoreCompileInputs.cache
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerAPI\obj\Debug\ServerAPI.csproj.CopyComplete
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerAPI\obj\Debug\ServerAPI.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerAPI\obj\Debug\ServerAPI.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerAPI\obj\Debug\ServerAPI.csprojAssemblyReference.cache

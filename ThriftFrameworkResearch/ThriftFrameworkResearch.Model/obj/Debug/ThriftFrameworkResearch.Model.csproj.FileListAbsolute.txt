@@ -1,0 +1,6 @@
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ThriftFrameworkResearch.Model\bin\Debug\ThriftFrameworkResearch.Model.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ThriftFrameworkResearch.Model\bin\Debug\ThriftFrameworkResearch.Model.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ThriftFrameworkResearch.Model\obj\Debug\ThriftFrameworkResearch.Model.csproj.CoreCompileInputs.cache
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ThriftFrameworkResearch.Model\obj\Debug\ThriftFrameworkResearch.Model.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ThriftFrameworkResearch.Model\obj\Debug\ThriftFrameworkResearch.Model.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ThriftFrameworkResearch.Model\obj\Debug\ThriftFrameworkResearch.Model.csprojAssemblyReference.cache

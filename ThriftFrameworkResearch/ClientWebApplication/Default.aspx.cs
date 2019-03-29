@@ -7,10 +7,11 @@ using System.Text;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using ClientWebApplication.common;
 
 namespace ClientWebApplication
 {
-    public partial class _Default : Page
+    public partial class _Default : BasePage
     {
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -39,6 +40,17 @@ namespace ClientWebApplication
                 responseStream.Close();
                 postResponseText.InnerText = htmlText;
             }
+        }
+
+        protected void usingThriftSendPostBtn_Click(object sender, EventArgs e)
+        {
+            ObjClient = CreateNewThriftClientObject();
+            string parameter1 = "test";
+            string parameter2 = "test2";
+            string result = ObjClient.TestSendHttpResearch(parameter1, parameter2);
+            postResponseText.InnerText = result;
+            Transport.Close();
+
         }
     }
 }

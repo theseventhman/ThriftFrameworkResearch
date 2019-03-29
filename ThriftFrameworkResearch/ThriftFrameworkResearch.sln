@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThriftFrameworkResearch.Mod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerApplication", "ServerApplication\ServerApplication.csproj", "{0E4988DD-7085-43F7-BF62-F21B881B9CF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNewThrift", "MyNewthrift\MyNewThrift.csproj", "{499EB63C-D74C-47E8-AE48-A2FC94538E9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerAPI", "ServerAPI\ServerAPI.csproj", "{B51B1F3E-8A5A-42F8-9588-231EBEA024AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{0E4988DD-7085-43F7-BF62-F21B881B9CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E4988DD-7085-43F7-BF62-F21B881B9CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E4988DD-7085-43F7-BF62-F21B881B9CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499EB63C-D74C-47E8-AE48-A2FC94538E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499EB63C-D74C-47E8-AE48-A2FC94538E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499EB63C-D74C-47E8-AE48-A2FC94538E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499EB63C-D74C-47E8-AE48-A2FC94538E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51B1F3E-8A5A-42F8-9588-231EBEA024AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51B1F3E-8A5A-42F8-9588-231EBEA024AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51B1F3E-8A5A-42F8-9588-231EBEA024AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51B1F3E-8A5A-42F8-9588-231EBEA024AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

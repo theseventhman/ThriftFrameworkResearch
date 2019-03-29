@@ -51,8 +51,12 @@ E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApp
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApplication\bin\roslyn\VBCSCompiler.exe.config
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApplication\obj\Debug\ServerApplication.csprojResolveAssemblyReference.cache
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApplication\obj\Debug\ServerApplication.csproj.CoreCompileInputs.cache
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApplication\obj\Debug\ServerApplication.csproj.CopyComplete
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApplication\obj\Debug\ServerApplication.dll
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApplication\obj\Debug\ServerApplication.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApplication\bin\ServerAPI.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApplication\bin\Thrift.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApplication\bin\Thrift.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApplication\bin\ServerAPI.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ServerApplication\obj\Debug\ServerApplication.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\PinduServiceAPI\PinduHotelsService\thrift091\bin\Release\Thrift.dll
+D:\PinduServiceAPI\PinduHotelsService\thrift091\bin\Release\Thrift.pdb
+D:\PinduServiceAPI\PinduHotelsService\thrift091\obj\Release\Thrift.dll
+D:\PinduServiceAPI\PinduHotelsService\thrift091\obj\Release\Thrift.pdb
+D:\PinduServiceAPI\PinduHotelService\thrift091\bin\Release\Thrift.dll
+D:\PinduServiceAPI\PinduHotelService\thrift091\bin\Release\Thrift.pdb
+D:\PinduServiceAPI\PinduHotelService\thrift091\obj\Release\Thrift.dll
+D:\PinduServiceAPI\PinduHotelService\thrift091\obj\Release\Thrift.pdb
+D:\PinduServiceAPI\PinduHotelService\thrift091\obj\Release\Thrift.csprojResolveAssemblyReference.cache
+D:\PinduService\Pindu.Core\thrift091\bin\Release\Thrift.dll
+D:\PinduService\Pindu.Core\thrift091\bin\Release\Thrift.pdb
+D:\PinduService\Pindu.Core\thrift091\obj\Release\Thrift.csprojResolveAssemblyReference.cache
+D:\PinduService\Pindu.Core\thrift091\obj\Release\Thrift.dll
+D:\PinduService\Pindu.Core\thrift091\obj\Release\Thrift.pdb

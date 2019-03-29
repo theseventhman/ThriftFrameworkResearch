@@ -50,5 +50,14 @@
             <p runat="server" id="postResponseText"></p>
         </div>
     </div>
+    
+    <div class="col-md-4">
+        <h2>使用thrift框架从客户端向服务端发送数据</h2>
+        <p>
+            <asp:Button ID="usingThriftSendPostBtn" runat="server" Text="使用thrift发送http请求" OnClick="usingThriftSendPostBtn_Click" />
+                
+
+        </p>
+    </div>
 
 </asp:Content>

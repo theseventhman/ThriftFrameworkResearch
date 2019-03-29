@@ -1,0 +1,16 @@
+E:\asp.net download source  mycode\MyNewPinduService\MyNewPindu.Core\MyNewthrift091\bin\Debug\Thrift.dll
+E:\asp.net download source  mycode\MyNewPinduService\MyNewPindu.Core\MyNewthrift091\bin\Debug\Thrift.pdb
+E:\asp.net download source  mycode\MyNewPinduService\MyNewPindu.Core\MyNewthrift091\obj\Debug\Thrift.dll
+E:\asp.net download source  mycode\MyNewPinduService\MyNewPindu.Core\MyNewthrift091\obj\Debug\Thrift.pdb
+D:\asp.net download source  mycode\MyNewPinduService\MyNewPindu.Core\MyNewthrift091\bin\Debug\Thrift.dll
+D:\asp.net download source  mycode\MyNewPinduService\MyNewPindu.Core\MyNewthrift091\bin\Debug\Thrift.pdb
+D:\asp.net download source  mycode\MyNewPinduService\MyNewPindu.Core\MyNewthrift091\obj\Debug\MyNewThrift.csprojResolveAssemblyReference.cache
+D:\asp.net download source  mycode\MyNewPinduService\MyNewPindu.Core\MyNewthrift091\obj\Debug\MyNewThrift.csproj.CoreCompileInputs.cache
+D:\asp.net download source  mycode\MyNewPinduService\MyNewPindu.Core\MyNewthrift091\obj\Debug\Thrift.dll
+D:\asp.net download source  mycode\MyNewPinduService\MyNewPindu.Core\MyNewthrift091\obj\Debug\Thrift.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\MyNewthrift\bin\Debug\Thrift.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\MyNewthrift\bin\Debug\Thrift.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\MyNewthrift\obj\Debug\MyNewThrift.csprojAssemblyReference.cache
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\MyNewthrift\obj\Debug\MyNewThrift.csproj.CoreCompileInputs.cache
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\MyNewthrift\obj\Debug\Thrift.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\MyNewthrift\obj\Debug\Thrift.pdb

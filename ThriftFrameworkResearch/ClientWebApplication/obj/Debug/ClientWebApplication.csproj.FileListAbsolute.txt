@@ -81,8 +81,10 @@ E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWeb
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Microsoft.AI.Web.xml
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\zh-Hans\System.Web.Optimization.resources.dll
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
-E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\obj\Debug\ClientWebApplication.csprojResolveAssemblyReference.cache
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\obj\Debug\ClientWebApplication.csproj.CoreCompileInputs.cache
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\obj\Debug\ClientWebApplication.csproj.CopyComplete
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\obj\Debug\ClientWebApplication.dll
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\obj\Debug\ClientWebApplication.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Thrift.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Thrift.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\obj\Debug\ClientWebApplication.csprojAssemblyReference.cache

@@ -15,7 +15,7 @@
     <RootNamespace>ServerApplication</RootNamespace>
     <AssemblyName>ServerApplication</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
-    <UseIISExpress>true</UseIISExpress>
+    <UseIISExpress>false</UseIISExpress>
     <Use64BitIISExpress />
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication>enabled</IISExpressAnonymousAuthentication>
@@ -69,6 +69,7 @@
     <Content Include="ashx\ReceivePostRequest.ashx" />
     <Content Include="WebForm1.aspx" />
     <None Include="packages.config" />
+    <Content Include="ThriftResearch.thrift" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -84,6 +85,7 @@
     <Compile Include="ashx\ReceivePostRequest.ashx.cs">
       <DependentUpon>ReceivePostRequest.ashx</DependentUpon>
     </Compile>
+    <Compile Include="CustomThriftHttpHandler .cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -98,7 +100,18 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="common\" />
     <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyNewthrift\MyNewThrift.csproj">
+      <Project>{499eb63c-d74c-47e8-ae48-a2fc94538e9d}</Project>
+      <Name>MyNewThrift</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServerAPI\ServerAPI.csproj">
+      <Project>{b51b1f3e-8a5a-42f8-9588-231ebea024aa}</Project>
+      <Name>ServerAPI</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
@@ -115,7 +128,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>2749</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:2749/</IISUrl>
+          <IISUrl>http://localhost:94</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
