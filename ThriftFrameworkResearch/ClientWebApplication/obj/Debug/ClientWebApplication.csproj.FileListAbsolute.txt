@@ -88,3 +88,13 @@ E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWeb
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Thrift.dll
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Thrift.pdb
 E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\obj\Debug\ClientWebApplication.csprojAssemblyReference.cache
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Autofac.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Autofac.Integration.Web.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Autofac.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Autofac.xml
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Autofac.Integration.Web.xml
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Autofac.Extras.DynamicProxy.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Castle.Core.dll
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Autofac.Extras.DynamicProxy.pdb
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Autofac.Extras.DynamicProxy.xml
+E:\git local directory\ThriftFrameworkResearch\ThriftFrameworkResearch\ClientWebApplication\bin\Castle.Core.xml

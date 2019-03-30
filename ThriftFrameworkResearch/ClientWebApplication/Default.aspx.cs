@@ -44,12 +44,12 @@ namespace ClientWebApplication
 
         protected void usingThriftSendPostBtn_Click(object sender, EventArgs e)
         {
-            ObjClient = CreateNewThriftClientObject();
+        
             string parameter1 = "test";
             string parameter2 = "test2";
-            string result = ObjClient.TestSendHttpResearch(parameter1, parameter2);
+            string result = TestSendHttpResearch(parameter1, parameter2);
             postResponseText.InnerText = result;
-            Transport.Close();
+            
 
         }
     }
